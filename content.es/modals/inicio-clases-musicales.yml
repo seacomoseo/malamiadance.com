@@ -1,0 +1,33 @@
+id: clases-musicales
+title: Escuela Musical
+anchor: Clases Musicales
+icon: icono-musical-alt
+description: |
+  Si te gusta sentirte como una estrella, cantar bajo la ducha y todo lo que tenga que ver con la música, estás en el lugar adecuado.
+more:
+  icon_type: top
+rows:
+- type: columns
+  design:
+    num: 3
+  items:
+  - title: Musicales
+    link: /musicales/
+    anchor: Clases de Musicales en Murcia
+    icon: icono-musicales
+  - title: Canto y Técnica Vocal
+    link: /canto-tecnica-vocal/
+    anchor: Clases de Canto y Técnica Vocal en Murcia
+    icon: icono-canto-y-tecnica-vocal
+  - title: Coro y Grupos Vocales
+    link: /coro-grupos-vocales/
+    anchor: Clases de Coro y Grupos Vocales en Murcia
+    icon: icono-coro-y-grupos-vocales
+  - title: Música y Movimiento
+    link: /musica-movimiento/
+    anchor: Clases de Música y Movimiento en Murcia
+    icon: icono-musica-y-movimiento
+  - title: Percusión
+    link: /percusion/
+    anchor: Clases de Percusión en Murcia
+    icon: icono-percusion

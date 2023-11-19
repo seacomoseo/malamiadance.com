@@ -1,0 +1,23 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: jessica-oliver-estilo-chica.jpg
+  - description: |
+      Domina el estilo femenino, conoce tus posibilidades, supera tus miedos y vergüenzas, conoce tu cuerpo y encuentra tu propio estilo bailando.
+
+      En nuestras clases trabajaremos el movimiento, la disociación corporal, técnica de giros y de posición, colocación de brazos, pasos libres, musicalidad, cambios de peso, golpes musicales, cadencias…
+
+      Se auténtica, conócete a ti misma y supérate en este estilo tan sensual.
+
+      ¿Te apuntas?
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

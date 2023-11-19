@@ -1,0 +1,24 @@
+id: nosotros
+title: Nosotros
+subtitle: ¡Quienes somos!
+color: dark
+size: md
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: https://youtu.be/hL30g9Gg8mc
+    more:
+      ratio: 1x1
+  - description: |
+      Mala Mía Dance es una academia de baile que nace en Murcia en el año 2022, situada en Av. Ciclista Mariano Rojas.
+
+      Es una academia que abarca mucho mas que solo baile, podrás descubrir una gran variedad de actividades relacionadas con el baile, música, artes escénicas y el bienestar físico. La academia cuenta con un equipo de profesores especializados en cada una de las actividades que se desarrollan en esta, para ofrecer al público un óptimo servicio adaptado a todos los niveles y a las necesidades de cada uno.
+
+      En nuestras clases, nuestro objetivo es que el aprendizaje vaya de la mano de un buen ambiente, que las clases sean divertidas a la par de eficientes y que nuestros alumnos se sientas en familia.
+
+      Si estás buscando una Academia de Baile, Música, Artes Escénicas o Bienestar físico en Murcia, !visítanos!
+    more:
+      align: left

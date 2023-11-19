@@ -1,0 +1,85 @@
+// Icons
+
+/*! purgecss start ignore */
+use[*|href*="/draws.svg#icono-"] {
+  fill: none;
+  stroke: $main;
+  stroke-width: .75em;
+}
+svg.section__icon--top {
+  use[*|href*="/draws.svg#icono-"] {
+    stroke-width: .5em;
+  }
+}
+/*! purgecss end ignore */
+
+
+// Header
+
+.section--header {
+  .image__inner g {
+    fill: var(--text);
+  }
+  @mixin show-up($delay) {
+    animation: show-up .5s (1.5 + .25s * $delay) both;
+  }
+  #logo-icon {                                  @extend %draw; }
+  #logo-mala-mia {                              @include show-up(1); }
+  #logo-dance {                                 @include show-up(2); }
+  &#header {
+    .subtitle {       @include show-up(3); }
+    .buttons {        @include show-up(4); }
+    .column--item-2 { @include show-up(5); }
+  }
+  &#header:not(#body-inicio #header) {
+    .section__title {        @include show-up(3); }
+    .description .subtitle { @include show-up(4); }
+    .description p {         @include show-up(5); }
+    .description .buttons {  @include show-up(6); }
+  }
+}
+
+
+// Home
+
+#body-inicio #header {
+  .column:last-child {
+    width: calc(var(--column-width) * .75);
+  }
+}
+
+#nosotros {
+  .image__inner g {
+    fill: $main;
+  }
+}
+
+
+// Pages
+
+#video {
+  .section__header {
+    @include ofuscate;
+  }
+}
+#contacto {
+  .contact__data ~ .buttons {
+    display: none;
+  }
+}
+
+// Others
+
+.gss {
+  tr {
+    &:hover,
+    &:nth-child(2n) {
+      background-color: $white;
+    }
+  }
+  td {
+    border-right: .0625em #e2e3e3 solid;
+    border-bottom: .0625em #e2e3e3 solid;
+    font-size: 10pt;
+  }
+}

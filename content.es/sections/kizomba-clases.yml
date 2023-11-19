@@ -1,0 +1,21 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - bg: https://youtu.be/6WOVBNULkYc
+  - description: |
+      Domina y disfruta del nuevo ritmo que está en constante crecimiento en el Mundo. En nuestras clases trabajaremos para que todos tus sentidos se conecten y puedas disfrutar de la Kizomba en su máxima expresión. Trabajaremos con los Leaders el guiado y para los followers el entendimiento para que la conexión al bailar surja más fácilmente. Te ayudaremos a controlar los cambios de peso, la musicalidad, las disociaciones corporales, la posición en pareja…
+
+      Abre tu mente a un nuevo mundo lleno de conocimientos, que harán que disfrutes muchísimo más si cabe del baile.
+
+      **INTENCIÓN - CONEXIÓN - MOVIMIENTO**
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

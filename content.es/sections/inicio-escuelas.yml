@@ -1,0 +1,30 @@
+id: escuelas
+title: Escuelas
+subtitle: ¡Nuestras Especialidades!
+anchor: Clases
+color: white
+size: md
+icon: fire
+more:
+  padding_bottom: 7
+rows:
+- type: columns
+  items:
+  - title: Baile
+    link: '#clases-baile'
+    anchor: Clases de Baile
+    icon: icono-baile
+    description: |
+      ¡Siente el flow en tus venas moviendo el esqueleto! Tienes una buena lista de estilos donde elegir: bailes latinos, clásicos, modernos...
+  - title: Musical
+    link: '#clases-musicales'
+    anchor: Clases Musicales
+    icon: icono-musical-alt
+    description: |
+      Si te gusta sentirte como una estrella, cantar bajo la ducha y todo lo que tenga que ver con la música, estás en el lugar adecuado.
+  - title: Fitness
+    link: '#clases-fitness'
+    anchor: Clases Fitness
+    icon: icono-fitness
+    description: |
+      Tanto si priorizas tu salud, como si quieres mejorar tu físico por estética o mejorar tus capacidades, esto te va a encantar.

@@ -1,0 +1,17 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: ballet-alt.jpg
+  - description: |
+      Ballet para niñ@s comprendido desde los 3 años hasta los 10 años. En estas clases los niños aprenderán diferentes habilidades y técnicas relacionadas con el ballet clásico: equilibrio, higiene postural, giros, flexibilidad, saltos, posiciones... No esperes más, prueba una clase y conviértete en un pequeño bailarín o bailarina donde lo más importante sea bailar y aprender de una forma divertida y lúdica. ¿A qué esperas?
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

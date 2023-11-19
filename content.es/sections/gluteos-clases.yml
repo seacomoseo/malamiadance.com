@@ -1,0 +1,33 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: isasi-gluteos.jpg
+  - description: |
+      En las sesiones de glúteos el objetivo principal será el aumento de tus glúteos a través de diferentes rutinas y ejercicios.
+
+      Como sabemos, cada vez está más interiorizada la importancia de trabajar los diferentes grupos musculares para ganar eficacia en el desempeño deportivo, y no atender solo al factor estético.
+
+      En el caso de los glúteos, tenerlos fuertes es fundamental para ganar agilidad, seguridad y explosividad en el movimiento.
+
+      Lo notarás cuando salgas a correr, sobre todo en los desniveles, pero también en otras actividades que requieran carreras y saltos.
+
+      Los glúteos intervienen activamente en la extensión y abducción de cadera, así como en su rotación externa y en la retroversión pélvica. En concreto, es el glúteo mayor el principal extensor, y el glúteo medio estabiliza la pelvis.
+
+      Un músculo que suele pasar desapercibido es el psoas ilíaco o músculo iliopsoas, que se encuentra en la cavidad abdominal y une el tren superior con el inferior. Pasar muchas horas sentado lo acorta, debilita los glúteos, acelera la aparición de dolores de espalda y dificulta mantener una postura correcta. Los ejercicios de glúteos ayudan a estirarlo, lo que tendrá efectos positivos.
+
+      Así, los beneficios irán más allá del factor estético, serán una consecuencia más del aumento de la salud y el bienestar. Por eso entrenar los glúteos es importante tanto para hombres como para mujeres.
+
+      ¿Te da pereza ponerte en acción? En cada una de las actividades impartidas por ella aprenderás infinitas herramientas y recursos que te recuerden cada día la importancia de ser una persona activa; sin importar cual sea la actividad, que con la voluntad el 50% del camino ya está recorrido, y descubrir a dónde pueden llevarte tu cuerpo y tu energía.
+
+      ¡ESCUCHA TU CUERPO! ¡SIENTE EL PODER!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

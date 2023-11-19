@@ -1,0 +1,19 @@
+id: profesores
+title: Profesores
+subtitle: ¡Nuestro Equipazo!
+color: dark
+size: md
+icon: users
+more:
+  padding_bottom: 7
+rows:
+- type: columns
+  design:
+    num: 2
+    ratio: circle
+    border: main
+  items:
+  - title: Isasi
+    subtitle: Isabel María Puigcerver Gea
+    link: '#profesora-isasi'
+    image: isasi-pequena.jpg

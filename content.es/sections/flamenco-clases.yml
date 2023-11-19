@@ -1,0 +1,21 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - bg: https://youtu.be/iqJe5u_y8xs
+  - description: |
+      Flamenco para niñ@s comprendido desde los 3 años hasta los 10.
+
+      Una experiencia única para aprender técnicas y habilidades relacionados con el flamenco: castañuelas, movimiento de muñecas, posiciones de cuerpo y brazos, movimiento de falda, aprendizaje de compás, coordinación, palmeo, juegos y mucho más.
+
+      Diviértete y aprende con nosotros. ¡Adelante flamenc@! 💃
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

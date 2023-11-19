@@ -1,0 +1,21 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: alvarone-break-dance.jpg
+  - description: |
+      ¡Clases de Breaking! Se centrarán en aprender Breaking en su total esencia, conociendo los origenes del Hip Hop así como sus pasos foundation que lo forman, habilidades para conseguir un mayor dinamismo, autocontrol corporal y psíquico, pautas para conseguir un freestyle o seguir una coreografía. Para ello también se trabajará en lograr un buen acondicionamiento físico.
+
+      Clases muy dinámicas y divertidas orientadas a todas las edades, desde los 4 años en adelante…
+
+      ¡Ven y prueba! 💪😎
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

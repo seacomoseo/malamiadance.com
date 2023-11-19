@@ -1,0 +1,19 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: alvaruko-hip-hop-y-urbano-comercial-grande.jpg
+  - description: |
+      En nuestras clases trabajaremos coreografía conociendo los diferentes estilos urbanos que existen y fusionando con otros estilos, trabajando musicalidad, movilidad corporal, base y técnica de Hip Hop, disociación corporal, pasos libres, cambios de peso…
+
+      Vive la calle en toda su esencia y conoce tu movimiento a través de este estilo con tanto flow ¿te animas?
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

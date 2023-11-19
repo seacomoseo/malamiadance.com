@@ -1,0 +1,33 @@
+id: header
+anchor: Clases de Salsa y Bachata en Murcia
+color: dark
+bg: manu-ruiz-y-jessica-oliver-salsa-y-bachata.jpg
+size: md
+gradient: black
+more:
+  padding_top: 3
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r
+  divider: arrow-fill
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - image: logo.svg
+  - title: Salsa y Bachata
+    description: |
+      Clases en Murcia
+      {.subtitle}
+
+      Diviértete y baila al son de nuestras clases de bailes latinos aprendiendo desde el nivel mas básico a los pasos con la técnica mas compleja. Te enseñamos técnica, estilo, movimiento y disociación corporal, musicalidad, cambios de energía, golpes de musicales, ritmos…
+
+      Aptas para todo tipo de públicos, edades y niveles, no necesitas venir con pareja, solo tener ganas.
+
+      Saca el mayor partido posible a tus capacidades, ponte en forma, conoce gente y diviértete. ¿Bailamos?
+
+      [btn icon-plus Más](#principal)
+    more:
+      align: left

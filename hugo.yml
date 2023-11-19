@@ -1,0 +1,32 @@
+baseURL: https://malamiadance.com
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/malamia/malamiadance.com
+  netlify_name: malamia
+  netlify_id: a18a7c86-2778-4058-8494-ca71226980e6
+  drive_link: https://drive.google.com/file/d/1zxwvvUc6z2n4QpMQ1AsXr3yT6glO_Xpi
+  drive_mails: malamiadance@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

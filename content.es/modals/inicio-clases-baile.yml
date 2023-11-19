@@ -1,0 +1,45 @@
+id: clases-baile
+title: Escuela de Baile
+anchor: Clases de Baile
+icon: icono-baile
+description: |
+  ¡Siente el flow en tus venas moviendo el esqueleto! Tienes una buena lista de estilos donde elegir: bailes latinos, clásicos, modernos...
+more:
+  icon_type: top
+rows:
+- type: columns
+  design:
+    num: 3
+  items:
+  - title: Salsa y Bachata
+    link: /salsa-bachata/
+    anchor: Clases de Salsa y Bachata en Murcia
+    icon: icono-salsa-y-bachata
+  - title: Kizomba
+    link: /kizomba/
+    anchor: Clases de Kizomba en Murcia
+    icon: icono-kizomba
+  - title: Estilo Chica
+    link: /estilo-chica/
+    anchor: Clases de Estilo Chica en Murcia
+    icon: icono-estilo-chica
+  - title: Sevillanas
+    link: /sevillanas/
+    anchor: Clases de Sevillanas en Murcia
+    icon: icono-sevillanas
+  - title: Flamenco
+    link: /flamenco/
+    anchor: Clases de Flamenco en Murcia
+    icon: icono-flamenco
+  - title: Ballet Clásico
+    link: /ballet/
+    anchor: Clases de Ballet Clásico en Murcia
+    icon: icono-ballet
+  - title: Break Dance
+    link: /break-dance/
+    anchor: Clases de Break Dance en Murcia
+    icon: icono-break-dance
+  - title: Hip Hop y Urbano Comercial
+    link: /hip-hop-urbano-comercial/
+    anchor: Clases de Hip Hop y Urbano Comercial en Murcia
+    icon: icono-hip-hop-y-urbano-comercial

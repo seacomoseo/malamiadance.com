@@ -1,0 +1,71 @@
+icons:
+  type: light
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: true
+  base:
+    family: Hind Siliguri
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Homemade Apple # Kalam
+    weight: 400
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  title:
+    family: Incompleeta Reveal
+    weight: 300
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: -.15
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#fdde33'
+    light: '#fff'
+    dark: '#b19b24' # 30
+    contrast: text
+  alt:
+    color: '#fff'
+    light: '#fff'
+    dark: '#fff'
+    contrast: all
+  link:
+    color: '#fff' #e55efa
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: 1.33
+  chamfer: true
+buttons:
+  sides_round: false
+  icon_circle: false
+  deep: true
+  outline: false
+  font_base: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0.15
+  color: black
+  opacity: 0.15
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: true
+  parallax: true
+  srcsetx2: true

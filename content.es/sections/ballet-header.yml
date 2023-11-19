@@ -1,0 +1,29 @@
+id: header
+anchor: Clases de Ballet Clásico Infantil en Murcia
+color: dark
+bg: ballet.jpg
+size: md
+gradient: black
+more:
+  padding_top: 3
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r
+  divider: arrow-fill
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - image: logo.svg
+  - title: Ballet Clásico Infantil
+    description: |
+      Clases en Murcia
+      {.subtitle}
+
+      Ballet para niñ@s comprendido desde los 3 años hasta los 10 años. En estas clases los niños aprenderán diferentes habilidades y técnicas relacionadas con el ballet clásico: equilibrio, higiene postural, giros, flexibilidad, saltos, posiciones... No esperes más, prueba una clase y conviértete en un pequeño bailarín o bailarina donde lo más importante sea bailar y aprender de una forma divertida y lúdica. ¿A qué esperas?
+
+      [btn icon-plus Más](#principal)
+    more:
+      align: left

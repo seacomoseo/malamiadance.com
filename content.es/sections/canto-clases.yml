@@ -1,0 +1,25 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: itziar-marhuenda-canto-y-tecnica-vocal-grande.jpg
+  - description: |
+      Aprende el correcto uso de la voz y desarrolla la interpretación vocal con un sistema de aprendizaje moderno, adaptado a todos los niveles, estilos y edades.
+
+      Para los mas pequeños, clases divertidas y motivadoras, aprenderán jugando.
+
+      En las clases trabajaremos: respiración, afinación, apoyo, voz de pecho, voz de cabeza, colocación, búsqueda de timbre y color, proyección, interpretación, improvisación… Todo esto armado de repertorio.
+
+      ¿TE GUSTA CANTAR? No es necesario saber música, solo hay que tener ganas de aprender y pasarlo bien.
+
+      ¡Vamos a cantar!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

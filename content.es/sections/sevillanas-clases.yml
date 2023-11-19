@@ -1,0 +1,23 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - bg: https://youtu.be/v_3EiFA37Zw
+  - description: |
+      ¿Quieres aprender a bailar sevillanas? ¡Es tu momento!
+
+      ¿Quien dijo que aprender a bailarlas fuera difícil? ¡Comienza tus clases con nosotros!
+
+      Desde la primera sevillana hasta la cuarta, adéntrate en el sabor andaluz para aprender sin problema y poder bailarlas donde sea.
+
+      ¿A qué esperas? Vámonos a la feria… ¡Y OLÉ! 💃
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

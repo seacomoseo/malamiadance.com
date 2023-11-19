@@ -1,0 +1,39 @@
+id: header
+anchor: Clases de Pilates en Murcia
+color: dark
+bg: isasi-pilates.jpg
+size: lg
+gradient: black
+more:
+  padding_top: 1
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r
+  divider: arrow-fill
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - image: logo.svg
+  - title: Pilates
+    description: |
+      Clases en Murcia
+      {.subtitle}
+
+      El pilates es un sistema de entrenamiento físico y mental que une el dinamismo y la fuerza muscular con el control mental, la respiración y la relajación.
+
+      Ésta disciplina recalca el uso de la mente para controlar el cuerpo, pero buscando el equilibrio y la unidad entre ambos.
+
+      El método se centra en el desarrollo de los músculos internos para mantener el equilibrio corporal y dar estabilidad y firmeza a la columna vertebral, siendo así muy usado como terapia en rehabilitación.
+
+      Sus principios fundamentales a trabajar son el alineamiento, la centralización, la concentración, el control, la precisión, la fluidez y la respiración.
+
+      ¿Te da pereza ponerte en acción? En cada una de las actividades impartidas por ella aprenderás infinitas herramientas y recursos que te recuerden cada día la importancia de ser una persona activa; sin importar cual sea la actividad, que con la voluntad el 50% del camino ya está recorrido, y descubrir a dónde pueden llevarte tu cuerpo y tu energía.
+
+      ¡ESCUCHA TU CUERPO! ¡SIENTE EL PODER!
+
+      [btn icon-plus Más](#principal)
+    more:
+      align: left

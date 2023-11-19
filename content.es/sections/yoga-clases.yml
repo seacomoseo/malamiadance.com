@@ -1,0 +1,25 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: isasi-yoga.jpg
+  - description: |
+      El yoga es una disciplina tradicional espiritual unida a una doctrina deportiva basada en encontrar un control físico y mental mediante la práctica de posturas corporales, enfatizando la meditación y la liberación.
+
+      Su práctica sana, cuida y fortalece el cuerpo, la mente y el espíritu mediante el trabajo en la respiración, la meditación y las asanas (posturas corporales).
+
+      El Yoga tiene muchas variantes, pudiendo ser adaptado a las necesidades de cada persona.
+
+      ¿Te da pereza ponerte en acción? En cada una de las actividades impartidas por ella aprenderás infinitas herramientas y recursos que te recuerden cada día la importancia de ser una persona activa; sin importar cual sea la actividad, que con la voluntad el 50% del camino ya está recorrido, y descubrir a dónde pueden llevarte tu cuerpo y tu energía.
+
+      ¡ESCUCHA TU CUERPO! ¡SIENTE EL PODER!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

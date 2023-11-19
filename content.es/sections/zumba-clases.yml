@@ -1,0 +1,25 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: cristian-brocal-zumba.jpg
+  - description: |
+      ¿Qué es Zumba? Prácticamente la actividad más increíble creada hasta el momento. Baila con música y gente especial, ¡y quema muchas calorías sin darte cuenta!
+
+      "No es una clase de baile, ¡es una fiesta! Nadie te juzga por tus habilidades para bailar. Sólo diviértete y siente la música."
+
+      En estas clases podrás encontrar los magníficos ritmos latinos característicos latinos de Zumba (Salsa, Cumbia, Merengue y Reguetón), y también otros como Dembow, Pop, Dance, o incluso Disco.
+
+      Solo hay una regla: ¡DISFRUTAR DE LA FIESTA!
+
+      Ven y únete a la fiesta, ¡la diversión está garantizada! ¡Si tienes preguntas, no dudes en ponerte en contacto!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

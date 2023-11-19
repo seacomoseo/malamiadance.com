@@ -1,0 +1,27 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: isasi-pilates.jpg
+  - description: |
+      El pilates es un sistema de entrenamiento físico y mental que une el dinamismo y la fuerza muscular con el control mental, la respiración y la relajación.
+
+      Ésta disciplina recalca el uso de la mente para controlar el cuerpo, pero buscando el equilibrio y la unidad entre ambos.
+
+      El método se centra en el desarrollo de los músculos internos para mantener el equilibrio corporal y dar estabilidad y firmeza a la columna vertebral, siendo así muy usado como terapia en rehabilitación.
+
+      Sus principios fundamentales a trabajar son el alineamiento, la centralización, la concentración, el control, la precisión, la fluidez y la respiración.
+
+      ¿Te da pereza ponerte en acción? En cada una de las actividades impartidas por ella aprenderás infinitas herramientas y recursos que te recuerden cada día la importancia de ser una persona activa; sin importar cual sea la actividad, que con la voluntad el 50% del camino ya está recorrido, y descubrir a dónde pueden llevarte tu cuerpo y tu energía.
+
+      ¡ESCUCHA TU CUERPO! ¡SIENTE EL PODER!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

@@ -1,0 +1,23 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: itziar-marhuenda-coro-y-grupos-vocales-grande.jpg
+  - description: |
+      Aprende el correcto uso de la voz y desarrolla la interpretación vocal con un sistema de aprendizaje moderno, adaptado a todos los niveles, estilos y edades.
+
+      El canto en grupo ayuda a que la gente esté mas relajada, feliz, vinculada, que ganen en confianza y conecten con mas gente, nos facilita el habla y a expresar nuestras emociones.
+
+      Siéntete en familia y encuentra el bienestar emocional que produce cantar en grupo, no necesitas saber música, solo hay que tener ganas de cantar, aprender y pasarlo bien.
+
+      ¡Vamos a cantar!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

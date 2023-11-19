@@ -1,0 +1,21 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: maria-angeles-marin-musica-y-movimiento-alt.jpg
+  - description: |
+      Las clases de Música y Movimiento se plantean en diferentes grupos para niños con edades comprendidas desde 3 hasta 7 años.
+
+      En ellas se trabajará el movimiento como medio de sensibilización motriz, visual y auditiva, la expresión rítmica, melódica y del espacio temporal. Además de introducirles en las primeras nociones básicas de la Iniciación Musical, como la diferenciación de las cualidades del sonido, o las primeras figuras rítmicas y melódicas, con la función de prepararles al lenguaje musical.
+
+      Todo ello se lleva a cabo empleando el juego como hilo conductor, con el fin de que tus hijos se inicien en el aprendizaje de la música de una forma divertida, que exploren, conozcan el sonido y sientan la música como medio de expresión.
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

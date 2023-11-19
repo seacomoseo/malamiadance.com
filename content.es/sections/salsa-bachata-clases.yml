@@ -1,0 +1,21 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: salsa-y-bachata.jpg
+  - description: |
+      Diviértete y baila al son de nuestras clases de bailes latinos aprendiendo desde el nivel mas básico a los pasos con la técnica mas compleja. Te enseñamos técnica, estilo, movimiento y disociación corporal, musicalidad, cambios de energía, golpes de musicales, ritmos…
+
+      Aptas para todo tipo de públicos, edades y niveles, no necesitas venir con pareja, solo tener ganas.
+
+      Saca el mayor partido posible a tus capacidades, ponte en forma, conoce gente y diviértete. ¿Bailamos?
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

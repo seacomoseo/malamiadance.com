@@ -1,0 +1,37 @@
+id: clases-fitness
+title: Escuela de Fitness
+anchor: Clases Fitness
+icon: icono-fitness
+description: |
+  Tanto si priorizas tu salud, como si quieres mejorar tu físico por estética o mejorar tus capacidades, esto te va a encantar.
+more:
+  icon_type: top
+rows:
+- type: columns
+  design:
+    num: 3
+  items:
+  - title: Yoga
+    link: /yoga/
+    anchor: Clases de Yoga en Murcia
+    icon: icono-yoga
+  - title: Pilates
+    link: /pilates/
+    anchor: Clases de Pilates en Murcia
+    icon: icono-pilates
+  - title: Flexibilidad y Estiramientos
+    link: /flexibilidad-estiramientos/
+    anchor: Clases de Flexibilidad y Estiramientos en Murcia
+    icon: icono-flexibilidad-y-estiramientos
+  - title: Entrenamiento Funcional
+    link: /entrenamiento-funcional/
+    anchor: Clases de Entrenamiento Funcional en Murcia
+    icon: icono-entrenamiento-funcional
+  - title: Culocotón y Abdomen 🍑
+    link: /gluteos/
+    anchor: Clases de Glúteos y Abdominales en Murcia
+    icon: icono-gluteos
+  - title: Zumba
+    link: /zumba/
+    anchor: Clases de Zumba en Murcia
+    icon: icono-zumba

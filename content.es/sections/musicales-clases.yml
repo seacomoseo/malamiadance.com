@@ -1,0 +1,29 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: itziar-marhuenda-musicales-grande.jpg
+  - description: |
+      Clases de musicales en las que trabajaremos MCDB (música, canciones, diálogo y baile), para todos los niveles y todas las edades.
+
+      Para los mas pequeños, realizaremos musicales Disney y trabajaremos con una metodología actual, clases divertidas y motivadoras, aprenderán jugando.
+
+      Para los mas mayores, trabajaremos los musicales mas célebres de todos los tiempos, en distintas categorías y estilos.
+
+      En las clases trabajaremos: puesta en escena, interpretación, coreografía y todo lo relacionado con la técnica vocal (respiración, afinación, apoyo, voz de pecho, voz de cabeza, colocación, búsqueda de timbre y color, proyección, interpretación…)
+
+      Mejora la creatividad, desarrolla la expresión verbal y corporal, estimula la memoria, mejora el lenguaje y la comprensión, amplia vocabulario, mejora la pronunciación, entonación y vocalización…
+
+      ¿Tu sueño es cantar y sentirte como en una película? Esta es tu actividad!!
+
+      ¡QUE COMIENCE EL MUSICAL!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

@@ -1,0 +1,16 @@
+id: horarios
+title: Horarios
+subtitle: ¡Así nos organizamos!
+color: white
+icon: clock
+rows:
+- type: gss
+  id: 2PACX-1vTRSalPlauJWk9CU-GX3k1pAUmrfNb5FpRhhPlg3i1uQV19fWkcXbUYMInoFoiu4JRXVbnp3ARea4HT
+  id_sheet: 926885302
+- type: columns
+  items:
+  - link: https://docs.google.com/spreadsheets/d/e/2PACX-1vTRSalPlauJWk9CU-GX3k1pAUmrfNb5FpRhhPlg3i1uQV19fWkcXbUYMInoFoiu4JRXVbnp3ARea4HT/pubhtml
+    label: Ampliar
+    more:
+      ofuscate: true
+      licon: expand

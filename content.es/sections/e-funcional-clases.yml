@@ -1,0 +1,25 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: isasi-entrenamiento-funcional.jpg
+  - description: |
+      El Entrenamiento Funcional es un entrenamiento basado en la realización de ejercicios que se adaptan a los movimientos naturales del cuerpo humano para trabajar de forma global músculos y articulaciones, preparándolo así para las actividades de la vida diaria.
+
+      Este entrenamiento es efectivo porque mediante ejercicios cortos y de intensidad gradual, se trabajan los grupos musculares en cadena, es decir, con un único ejercicio podemos activar varios grupos musculares obteniendo un beneficio global.
+
+      No importa tu edad, que lleves tiempo sin entrenarte o que seas un deportista de alto nivel: la intensidad de los ejercicios funcionales se adapta a tus capacidades físicas para proporcionarte importantes beneficios de salud, permitiendo obtener resultados optimizados a tu entrenamiento.
+
+      ¿Te da pereza ponerte en acción? En cada una de las actividades impartidas por ella aprenderás infinitas herramientas y recursos que te recuerden cada día la importancia de ser una persona activa; sin importar cual sea la actividad, que con la voluntad el 50% del camino ya está recorrido, y descubrir a dónde pueden llevarte tu cuerpo y tu energía.
+
+      ¡ESCUCHA TU CUERPO! ¡SIENTE EL PODER!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

@@ -1,0 +1,27 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: isasi-flexibilidad-y-estiramientos.jpg
+  - description: |
+      La flexibilidad es conocida como el grado de movilidad de una parte del cuerpo y la elasticidad del músculo involucrado en la ejecución de un movimiento. Es por ello que será trabajada mediante la práctica de estiramientos, donde serán el movimiento de la articulación, del músculo, de los ligamentos y de los tendones, lo que nos llevará a obtener mayor flexibilidad.
+
+      Con esta práctica se evita el dolor y la fatiga en los músculos, se mejora el balance y la buena postura en la vida diaria, se reduce el estrés y el riesgo de lesiones y se fomenta la relajación.
+
+      Esta capacidad nace con nosotros y se va perdiendo con el crecimiento, de manera más acelerada si no se ejercita frecuentemente.
+
+      Su trabajo promueve mucho más rápida y efectivamente una recuperación que un simple reposo, y desde un punto de vista preventivo, correctivo y evolutivamente natural, los ejercicios de movilidad-flexibilidad traen ergonomía y salud a nuestra vida.
+
+      ¿Te da pereza ponerte en acción? En cada una de las actividades impartidas por ella aprenderás infinitas herramientas y recursos que te recuerden cada día la importancia de ser una persona activa; sin importar cual sea la actividad, que con la voluntad el 50% del camino ya está recorrido, y descubrir a dónde pueden llevarte tu cuerpo y tu energía.
+
+      ¡ESCUCHA TU CUERPO! ¡SIENTE EL PODER!
+
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left

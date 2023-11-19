@@ -1,0 +1,38 @@
+id: contacto
+title: Contacto
+subtitle: ¡Sin compromiso!
+color: dark
+button: link
+size: sm
+icon: paper-plane
+rows:
+- type: contact
+  data:
+  - type: phone
+    label: 614 11 49 42
+  - type: whatsapp
+    label: 614 11 49 42
+    button: link
+  - type: custom
+    link: https://www.instagram.com/malamiadancemurcia/
+    label: '@malamiadancemurcia'
+    icon: instagram
+    font_alt: true
+    ofuscate: true
+    full: true
+    button: light
+  - type: address
+    active: true
+    name: Mala Mía Dance
+    streetAddress: Av. Ciclista Mariano Rojas, 14
+    postalCode: 30009
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: España
+    coordinates: '{"type":"Point","coordinates":[-1.1452200,38.0005480]}'
+  map:
+    active: true
+    link: https://g.page/r/CXhprC9THFwKEAg
+    iframe: ''
+    flip_x: true
+    divider: arrow-three

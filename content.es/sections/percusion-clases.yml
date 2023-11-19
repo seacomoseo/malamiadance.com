@@ -1,0 +1,21 @@
+id: clases
+title: Clases
+subtitle: ¡A bailar!
+color: white
+icon: circle-info
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - image: fran-tortosa-percusion-alt.jpg
+  - description: |
+      Todas las clases son para todas las edades dividiendo entre menores y mayores de edad. Si tienes alguna duda sobre estas actividades pregúntanos sin compromiso y ven a probar una clase, sacando tu lado más rítmico y creativo con nosotros.
+
+      [btn icon-plus Batucada](#clases-batucada)
+      [btn icon-plus Cajón Flamenco](#clases-cajon-flamenco)
+      [btn icon-plus Combo Latino](#clases-combo-latino)
+      [btn icon-plus Profesores](#profesores)
+      [btn icon-plus La Academia](/#nosotros)
+    more:
+      align: left
