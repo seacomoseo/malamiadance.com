@@ -20,9 +20,9 @@ general:
   padding_bottom: null
   color: ''
   gradient: ''
-  gradient_type: ''
+  gradient_type: linear-r
   bg: ''
-  opacity: null
+  opacity: 30
   parallax: true
   pill: false
   size: ''

@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/malamia/malamiadance.com
   netlify_name: malamia
   netlify_id: a18a7c86-2778-4058-8494-ca71226980e6
+  hook: NjMwODkzZmExZDdjNzA3M2RiNjA3MzA4
   drive_link: https://drive.google.com/file/d/1zxwvvUc6z2n4QpMQ1AsXr3yT6glO_Xpi
   drive_mails: malamiadance@gmail.com
 defaultContentLanguage: es

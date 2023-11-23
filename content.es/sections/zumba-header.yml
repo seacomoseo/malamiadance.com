@@ -5,11 +5,8 @@ bg: cristian-brocal-zumba-alt.jpg
 size: lg
 gradient: black
 more:
-  padding_top: 1
-  opacity: 30
-  parallax: true
-  gradient_type: linear-r
-  divider: arrow-fill
+  divider: arrow
+  flip_y: true
 rows:
 - type: columns
   design:
